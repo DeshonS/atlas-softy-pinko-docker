@@ -1,0 +1,1 @@
+This sprint deals with dockerfiles, how to use them, and how to make them.
